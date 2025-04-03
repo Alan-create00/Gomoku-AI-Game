@@ -1,5 +1,5 @@
 # Gomoku-AI-Game
-Gomoku : A rontement entre IA
+Gomoku : Affrontement entre IA
  Le Gomoku est un jeu de plateau a deux joueurs en tour par tour (joueur1 avec les pions noir, joueur2
  avec les pions blanc). Le joueur noir joue en premier. Chaque joueur a 60 pions. La taille du plateau est de
  15 cases sur 15 cases. Les lignes sont numerotees de A a O et les colonnes sont numerotees de 0 a 14.
