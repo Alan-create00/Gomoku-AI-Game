@@ -17,8 +17,8 @@ Gomoku : Affrontement entre IA
 beta. Si vous trouvez des heuristiques permettant den ameliorer les resultats vous etes encourages a le faire.
  Pour les plus curieux, vous pouvez lire cet article:
  http://ai.csie.ndhu.edu.tw/paper/200612071659502.pdf
- Votre programme doit etre pense a n quun etre humain puisse la ronter. Ainsi on pourra se faire
- a ronter deux IA sur di erentes machines entre elles (par humains interposes a n de renseigner les coups de
+ Votre programme doit etre pense a n quun etre humain puisse l'affronter. Ainsi on pourra se faire
+ a ronter deux IA sur di erentes machines entre elles (par humains interposes afin de renseigner les coups de
  lautre IA). Lorsque ce sera au tour du joueur humain de jouer, il devra renseigner la ligne puis la colonne
  ou il veut placer un pion. LIA a chera a lecran son choix (par exemple: D7 ). Le plateau a chera tous
  les choix des joueurs(humain et machine). Cette a chage sera fait simplement en mode texte.
